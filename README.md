@@ -10,6 +10,8 @@ fb3-deberta-v3-base-baseline-inference.ipynb: inference notebook for deberta-v3+
 deberta-v3+CNN:
 
 GPT2+MLP:
+fb3-gpt2-inference.ipynb: training notebook for GPT2+MLP model
+fb3-gpt2-train.ipynb: inference notebook for GPT2+MLP model
 
 deverta-v3+LDLR:
 fb3-deberta-v3-base-reinit-lastlayer-train.ipynb: training notebook for deberta-v3+ layerwise decay lr and Last Layer Re-init model

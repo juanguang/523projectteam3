@@ -3,11 +3,13 @@
 baseline_model.ipynb:
 The notebook submission of baseline to kaggle
 
-deberta-v3+MLP:
+deberta-v3+MLP:\n
 fb3-deberta-v3-base-baseline-train.ipynb: training notebook for deberta-v3+MLP model
 fb3-deberta-v3-base-baseline-inference.ipynb: inference notebook for deberta-v3+MLP model
 
-deberta-v3+CNN:
+deberta-v3+CNN:\n
+deberta-v3-base-cnn-train.ipynb: training notebook for deberta-v3+CNN model
+fb3-deberta-v3-base-cnn-inference.ipynb: inference notebook for deberta-v3+CNN model
 
 GPT2+MLP:
 fb3-gpt2-inference.ipynb: training notebook for GPT2+MLP model
